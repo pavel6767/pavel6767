@@ -4,8 +4,8 @@
 Fullstack developer specializing in Node/React. With a background in service industry and performing arts.
 
 ### Currently, I'm:
-- Working on [**Just One Penny**](https://justonepenny.org/)
-- Looking for help with **finding my next dev role**
+- Working with [**Klyxx**](https://www.klyxx.co/)
+- Volunteering with [**Just One Penny**](https://justonepenny.org/)
 
 ### What I’m currently learning?
 - [**Algorithms**](https://www.coursera.org/learn/algorithms-part1)
