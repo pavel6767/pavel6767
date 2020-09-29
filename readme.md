@@ -5,6 +5,7 @@ Fullstack developer specializing in Node/React. With a background in service ind
 
 ### Currently, I'm:
 - Working with [**Klyxx**](https://www.klyxx.co/)
+- Apprenticing at [**The Difference Engine**](https://www.thedifferenceengine.io/)
 - Volunteering with [**Just One Penny**](https://justonepenny.org/)
 
 ### What I’m currently learning?
