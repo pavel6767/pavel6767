@@ -6,7 +6,14 @@ Fullstack developer specializing in Node/React. With a background in service ind
 ### Currently, I'm:
 - Working with [**Klyxx**](https://www.klyxx.co/)
 - Apprenticing at [**The Difference Engine**](https://www.thedifferenceengine.io/)
-- Volunteering with [**Just One Penny**](https://justonepenny.org/)
+
+### Some works I've contributed
+- [**Perfect Storm Footwear**](https://www.perfectstormfootwear.com/)
+  - Shopify
+- [**Veles Gaming**](https://velesgaming.com/)
+  - Shopify
+- [**Beat the bomb**](https://beatthebomb.com/)
+  - Gatsby
 
 ### What I’m currently learning?
 - [**Algorithms**](https://www.coursera.org/learn/algorithms-part1)
