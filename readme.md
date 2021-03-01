@@ -5,7 +5,6 @@ Fullstack developer specializing in Node/React. With a background in service ind
 
 ### Currently, I'm:
 - Working with [**Klyxx**](https://www.klyxx.co/)
-- Apprenticing at [**The Difference Engine**](https://www.thedifferenceengine.io/)
 
 ### Some works I've contributed
 - [**Perfect Storm Footwear**](https://www.perfectstormfootwear.com/)
