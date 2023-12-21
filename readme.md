@@ -4,7 +4,7 @@
 Fullstack developer specializing in Node/React. With a background in service industry and performing arts.
 
 ### Currently, I'm:
-- Working with [**Klyxx**](https://www.klyxx.co/)
+- Working with [**Capital One**](https://www.capitalone.com/)
 
 ### Some works I've contributed
 - [**Perfect Storm Footwear**](https://www.perfectstormfootwear.com/)
