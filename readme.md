@@ -10,10 +10,9 @@ Solutions-focused Software Engineer with 5 years of comprehensive experience in 
  - [**Capital One**](https://www.capitalone.com/)
  - [**New York Life Insurance**](https://www.newyorklife.com/)
 
-### Some works I've contributed
-- [**Perfect Storm Footwear**](https://www.perfectstormfootwear.com/)
-- [**Veles Gaming**](https://velesgaming.com/)
+### Some public works I've contributed
 - [**Beat the bomb**](https://beatthebomb.com/)
+- [**Jetsweat Fitness**](https://www.jetsweatfitness.com/)
 
 ### How to reach me?
 If you would like to discuss anything with me, you can reach out to me on [**LinkedIn**](https://www.linkedin.com/in/pavel-machuca/)
