@@ -5,6 +5,8 @@ Solutions-focused Software Engineer with 5 years of comprehensive experience in 
 
 ### Currently, I'm:
 - Looking for my next Role!
+- Working on a [Breathing timer](https://github.com/pavel6767/breath-timer)
+- Volunteering/mentoring here at [Code the Dream](https://codethedream.org/)
 
 ### Companies I've worked before
  - [**Capital One**](https://www.capitalone.com/)
