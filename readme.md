@@ -1,10 +1,9 @@
 ## About me
 Solutions-focused Software Engineer with 5 years of comprehensive experience in full-stack development, specializing in delivering resilient solutions that empower internal teams and customer experiences. A proven record of meeting technical requirements and successfully delivering and refactoring multiple features. Dedicated to strong communication and collaboration with cross-functional teams and sales and support agents to drive business growth.
 
-## Currently, I'm:
-- Looking for my next Role!
-- Working on a [Breathing timer](https://breath-timer.vercel.app/), [repo here](https://github.com/pavel6767/breath-timer)
-- Volunteering/mentoring here at [Code the Dream](https://codethedream.org/)
+## Past projects:
+- [Breathing timer](https://breath-timer.vercel.app/), [repo here](https://github.com/pavel6767/breath-timer)
+- Volunteering/mentoring at [Code the Dream](https://codethedream.org/)
 
 ## Companies I've worked before
  - [**Capital One**](https://www.capitalone.com/)
